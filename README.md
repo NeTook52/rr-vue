@@ -4,7 +4,7 @@
 
 ## Демо
 
-[Посмотреть демо](https://YOUR_GITHUB_USERNAME.github.io/rr-vue/)
+[Посмотреть демо](https://.github.io/rr-vue/](https://netook52.github.io/rr-vue/)
 
 ## Реализованный функционал
 
